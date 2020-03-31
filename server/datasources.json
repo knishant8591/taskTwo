@@ -1,0 +1,14 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://localhost:27017/demo",
+    "database": "demo",
+    "password": "admin",
+    "name": "db",
+    "connector": "mongodb",
+    "enableDbCreation": true,
+    "user": "admin",
+    "connectionTimeout": 50000
+  }
+}
